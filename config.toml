@@ -1,6 +1,6 @@
 baseURL = "https://andalas.github.io/"
 languageCode = "en-us"
-theme = "raditian-free-hugo-theme"
+theme = "raditian"
 
 # Plugins
 [params.plugins]
