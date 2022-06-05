@@ -1,0 +1,4 @@
+baseURL = 'http://andalas.com/'
+languageCode = 'en-us'
+title = 'Richard Laksana'
+theme = "ananke" 
